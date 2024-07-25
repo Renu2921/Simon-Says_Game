@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: #d2d2d2;
+}
+h1{
+    color: #b12b2b;
+    font-size: 50px;
+}
+h2{
+    color: black
+}
+.container{
+    /* border: 2px solid red; */
+    height: 420px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.btns{
+    border: 10px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    margin: 10px;
+}
+.pink{
+ background-color:#d95980 ;
+}
+
+.blue{
+    background-color: #63aac0;
+}
+
+.yellow{
+    background-color:#f99b45 ;
+}
+
+.skyBlue{
+    background-color: #819ff9;
+}
+
+.btnFlash{
+    background-color: white;
+}
